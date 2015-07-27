@@ -90,7 +90,7 @@ A huge part of my role as a consultant was analysing difficult situations and de
    *Head of the Atar Family Foundation*
   
 **NORWOOD** (Aug. 2012 – March 2014)
- *Head of Strategy & Performance*	
+   *Head of Strategy & Performance*	
 
 **PKF UK LLP - Management Consulting Services**  (Jan. 2009 – Aug. 2012)
   *Consultant* 
