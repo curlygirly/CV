@@ -86,12 +86,12 @@ A huge part of my role as a consultant was analysing difficult situations and de
 
 ## Experience
 
--	THE ATAR FAMILY FOUNDATION		               March – November 2014          
-  Head of the Atar Family Foundation 
+ **The Atar Family Foundation** (March – November 2014 )  
+   *Head of the Atar Family Foundation*
   
--	NORWOOD 					                           Aug. 2012 – March 2014
-  Head of Strategy & Performance	
+**NORWOOD** (Aug. 2012 – March 2014)
+ *Head of Strategy & Performance*	
 
--	PKF UK LLP - Management Consulting Services  Jan. 2009 – Aug. 2012
-  Consultant  
+**PKF UK LLP - Management Consulting Services**  (Jan. 2009 – Aug. 2012)
+  *Consultant* 
 
