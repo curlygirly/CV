@@ -2,7 +2,7 @@
 
 A creative and enthusiastic junior web developer and novice trapeze flyer, with a passion for change and improving the world we live in. Following a successful career as a transformation consultant, I decided let my creativity out and channel it and the skills I gained as a consultant, into the exhilarating and dynamic world of web development. As complete newbie to the world of tech and coding, I recently graduated from the [Makers Academy](http://www.makersacademy.com), having discovered a genuine passion and an unquenchable thirst for developing and designing beautiful, yet useful and usable code and web technology. 
 
-I am currently volunteering with at [Agile Ventures](http://www.agileventures.org/), but I am looking for an exciting and innovative junior role within a friendly yet stimulating and challenging environment. I am keen and enthusiastic to learn more and develop my skills further, contributing to inspiring yet exciting projects.  
+I am currently volunteering at [Agile Ventures](http://www.agileventures.org/), but I am looking for an exciting and innovative junior role within a friendly yet stimulating and challenging environment. I am keen and enthusiastic to learn more and develop my skills further, contributing to inspiring yet exciting projects.  
 
 ## Recent Projects
 
