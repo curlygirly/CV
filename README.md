@@ -18,7 +18,7 @@ I am currently volunteering at Agile Ventures, but I am looking for an exciting 
 
 #### Software Development
 
-I am graduate of Makers Academy 12 week immersive coding boot camp, where I was introduced to a wealth of technologies, mehtodologies and programming languages such as Ruby and JavaScript, and their relative frameworks.  The course embedded core coding skills and principles including pair programming, MVP, TDD/BDD, OOP, SOLID, and group work implementing Agile best practices such as SCRUM.  I was taught best practices by world class developers and was given a fantastic exposure to the full tech stack.
+I am graduate of Makers Academy 12 week immersive coding boot camp, where I was introduced to a wealth of technologies, methodologies and programming languages such as Ruby and JavaScript and their relative frameworks.  The course embedded core coding skills and principles including pair programming, MVP, TDD/BDD, OOP, SOLID, and group work implementing Agile best practices such as SCRUM.  I was taught best practices by world class developers and was given a fantastic exposure to the full tech stack.
 
 #### Since Graduating from Makers Academy….
 
