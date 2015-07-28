@@ -1,8 +1,8 @@
 ## Jennifer Arad-Marks
 
-A creative and enthusiastic junior web developer and novice trapeze flyer, with a passion for change and improving the world we live in. Following a successful career as a transformation consultant, I decided let my creativity out and channel it and the skills I gained as a consultant, into the exhilarating and dynamic world of web development. As complete newbie to the world of tech and coding, I recently graduated from the [Makers Academy](http://www.makersacademy.com), having discovered a genuine passion and an unquenchable thirst for developing and designing beautiful, yet useful and usable code and web technology. 
+A creative and enthusiastic junior web developer and novice trapeze flyer, with a passion for change and improving the world we live in. Following a successful career as a transformation consultant, I decided let my creativity out and channel it and the skills I gained as a consultant, into the exhilarating and dynamic world of web development. As complete newbie to the world of tech and coding, I recently graduated from the Makers Academy having discovered a genuine passion and an unquenchable thirst for developing and designing beautiful, yet useful and usable code and web technology. 
 
-I am currently volunteering at [Agile Ventures](http://www.agileventures.org/), but I am looking for an exciting and innovative junior role within a friendly yet stimulating and challenging environment. I am keen and enthusiastic to learn more and develop my skills further, contributing to inspiring yet exciting projects.  
+I am currently volunteering at Agile Ventures, but I am looking for an exciting and innovative junior role within a friendly yet stimulating and challenging environment. I am keen and enthusiastic to learn more and develop my skills further, contributing to inspiring yet exciting projects.  
 
 ## Recent Projects
 
@@ -18,17 +18,7 @@ I am currently volunteering at [Agile Ventures](http://www.agileventures.org/), 
 
 #### Software Development
 
-I am graduate of Makers Academy 12 week immersive coding boot camp, where I was introduced to a wealth of technologies and methodologies, embedding core coding skills and principles. Key learning concepts were pair programming, MVP, TDD/BDD, code design principles such as OOP and SOLID, and group work implementing Agile best practices such as SCRUM.  I was taught best practices by world class developers and was given a fantastic exposure to the full tech stack, with particular focus on the following technologies:
-
-Technology | Language/Framework/Tool
------------|------------------------
-**Front End** | HTML5, CSS, Bootstrap, Javascript, jQuery, Angular.js
-**Back End** | Ruby, Rails, Sinatra, Node.js
-**Databases & ORMs** | PostgreSQL, MongoDB, SQL, ActiveRecord, DataMapper
-**Testing** | RSpec, Capybara, Jasmine, Cucumber, Karma, Protractor
-**Other** | REST(ful) APIs, version control (Git), AJAX, JSON
-**Soft Skills** | Agile, pair programming, group work, communication
-
+I am graduate of Makers Academy 12 week immersive coding boot camp, where I was introduced to a wealth of technologies, mehtodologies and programming languages such as Ruby and JavaScript, and their relative frameworks.  The course embedded core coding skills and principles including pair programming, MVP, TDD/BDD, OOP, SOLID, and group work implementing Agile best practices such as SCRUM.  I was taught best practices by world class developers and was given a fantastic exposure to the full tech stack.
 
 #### Since Graduating from Makers Academy….
 
